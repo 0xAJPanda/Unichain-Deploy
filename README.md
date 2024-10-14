@@ -20,6 +20,13 @@ foundryup
 forge --version
 ```
 
+### Create a working directory
+
+```
+mkdir uniswapcontract  && cd uniswapcontract
+
+```
+
 ### Edit foundry.toml
 
 ```
@@ -54,6 +61,8 @@ forge create ccuniscripts/helloworld.sol:HelloWorld --rpc-url unichain --private
 ```
 
 **Explorer** : https://sepolia.uniscan.xyz/
+
+Paste your public address to see your transaction on the explorer
 
 ### Deploy ERC20 token
 
