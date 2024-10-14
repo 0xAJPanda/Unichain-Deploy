@@ -41,10 +41,10 @@ CTRL+X, then Y and ENTER
 git clone https://github.com/OpenZeppelin/openzeppelin-contracts.git "openzeppelin"
 ```
 
-### Clone CryptoConsole Repo
+### Clone this repo
 
 ```
-git clone https://github.com/stealeruv/Unichain-Deploy.git "ccuniscripts"
+git clone https://github.com/0xAJPanda/Unichain-Deploy.git "ccuniscripts"
 ```
 
 ### Deploy Helloworld
