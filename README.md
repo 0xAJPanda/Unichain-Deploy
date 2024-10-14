@@ -67,4 +67,4 @@ forge create ccuniscripts/erc20.sol:Console --constructor-args <youraddress> --r
 cast send <ContractAddress> "transfer(address,uint256)" <receiveraddress> 100000000000000000000  --rpc-url unichain  --private-key <yourprivkey>
 ```
 
-**Follow Crypto Console**: https://x.com/cryptoconsol 🫰
+**Follow Me : **: https://x.com/0xAJPAnda 🫰
